@@ -1,5 +1,5 @@
-# Empower
-Empower is a client advocacy and management system designed to help you cultivate client relationships, manage the delivery of services, and track outcomes and trends.
+# APP NAME & DESCRIPTION
+
 
 ## Getting Started
 N/A
@@ -24,7 +24,6 @@ N/A
 
 ## Built With
 * [Ruby on Rails](http://rubyonrails.org/) - Web framework
-* [Heroku](https://www.heroku.com/home) - Cloud platform/server
 
 ## To-Do
 N/A
@@ -36,10 +35,6 @@ N/A
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request :D
 
-## Versioning
-* Ruby 2.4.1
-* Rails 5.1.4
-
 ## Authors
 * LPSV
 
@@ -50,4 +45,3 @@ N/A
 * The Odin Project
 * Google
 * Stack Overflow
-* [RailsCasts #163: Self-Referential Association](http://railscasts.com/episodes/163-self-referential-association)
